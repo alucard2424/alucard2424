@@ -4,8 +4,7 @@ Physicist working on **integrated and quantum photonics**: I take photonic chips
 Since 2024 I've been a research assistant in the Hybrid PICs group at **Fraunhofer HHI** (Berlin), and my M.Sc. in
 theoretical physics at **TU Berlin** focused on numerical methods for **non-Markovian open quantum many-body systems**.
 
-**Open to:** PhD positions in integrated/quantum photonics or open quantum systems, and R&D roles in photonic
-integrated circuits and quantum technology. Available from mid-November 2026, Berlin or anywhere in Germany.
+**Open to:** PhD positions in integrated/quantum photonics, open quantum systems or quantum computing theory (noise, decoherence, error correction), and R&D roles in photonic integrated circuits and quantum technology. Available from mid-November 2026, Berlin or anywhere in Germany.
 
 #### What I work on
 - **PIC design:** arrayed waveguide gratings, MMI couplers (up to a 9×9 Talbot-effect splitter), spot-size converters
